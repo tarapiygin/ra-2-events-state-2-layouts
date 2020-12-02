@@ -1,0 +1,9 @@
+.icon-switch {
+  width: 100%;
+  min-height: 4rem;
+}
+
+.icon-switch_icon {
+  font-size: 4rem;
+  float: right;
+}
